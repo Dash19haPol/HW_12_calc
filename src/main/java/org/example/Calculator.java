@@ -3,6 +3,7 @@ package org.example;
  * To run:
  * java -jar HW_calculator-1.0-SNAPSHOT.jar 10 8 +
  */
+
 public class Calculator {
     public static void main(String[] args) {
         if (args.length != 3) {
